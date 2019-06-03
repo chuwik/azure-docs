@@ -74,7 +74,7 @@ To do this in Postman:
 
 1. Change the verb to **PUT**.
 
-2. Copy in this URL `https://<YOUR-SEARCH-SERVICE-NAME>.search.windows.net/indexes/hotel?api-version=2019-05-06`.
+2. Copy in this URL `https://<YOUR-SEARCH-SERVICE-NAME>.search.windows.net/indexes/hotels?api-version=2019-05-06`.
 
 3. Provide the index definition (shown below) in the body of the request.
 
@@ -252,7 +252,7 @@ For the target, copy in a modified version of this URL: `https://<YOUR-SEARCH-SE
 
 ### 1 - Create an index
 
-Change the verb to **PUT**. Copy in a modified version of this URL: `https://<YOUR-SEARCH-SERVICE-NAME>.search.windows.net/indexes/hotel?api-version=2019-05-06`. Copy the index definition provided above to the request body. Your page should look similar to the following screenshot. Click **Execute** on the top right to send the completed request.
+Change the verb to **PUT**. Copy in a modified version of this URL: `https://<YOUR-SEARCH-SERVICE-NAME>.search.windows.net/indexes/hotels?api-version=2019-05-06`. Copy the index definition provided above to the request body. Your page should look similar to the following screenshot. Click **Execute** on the top right to send the completed request.
 
 ![Fiddler request body][7]
 
